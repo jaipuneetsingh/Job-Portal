@@ -1,0 +1,88 @@
+body
+{
+background-color:#2881BB;
+}
+.buttonSubmit{
+	font-size: 8pt;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+	text-decoration: none;
+	font-weight: bold;
+	background-color:#4c99cc;
+	border:none;
+	height:19px;
+	width:70px;
+	cursor:hand;	
+	}
+.subcontent
+{
+	FONT-SIZE: 8pt; color:#004e9b;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+	
+}
+A {
+	font-size:10;
+	font-weight:bold;
+	color:Blue;
+}
+
+.grdheading
+{
+	FONT-SIZE: 10pt; color:#ffffff;
+	font-weight: bold;
+	background-color:#0099ff;
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+}
+.msgcontent
+{
+	FONT-SIZE: 8pt; color:#ff3333;
+	font-weight:bold;
+	font-family:Verdana, Arial, Helvetica, Sans-Serif;
+}
+.subheading
+{
+	FONT-SIZE: 10pt; color:#004e9b;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+}
+
+.content
+{
+	FONT-SIZE: 8pt; COLOR: #004e9b;
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+}
+A:hover {
+	COLOR: #404082; TEXT-DECORATION: none
+}
+.tblborder{border-bottom-width:2px;border-bottom-color:#00ff00;border-top-width:2px;border-top-color:#00ff00;border-width:thick}
+BODY {
+	FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+A {
+	FONT-SIZE: 10pt; COLOR: #27537a; TEXT-DECORATION: underline;
+	font-family: Verdana, Sans-Serif;
+}
+
+.color
+{
+	FONT-SIZE: 8pt; COLOR: #004e9b;
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+}
+.color:hover
+{
+	color:#F96;
+}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
